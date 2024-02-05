@@ -177,12 +177,12 @@
 	color: black;
 }
 #contact button.submitform {
-    font-size: larger;
+    	font-size: larger;
 	height: 4.6rem;
 	width: 100%;
 	background: darkolivegreen;
 	color: white;
-    margin-top: 1cm;
+    	margin-top: 1cm;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
 	background: olive;
